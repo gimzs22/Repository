@@ -1,1 +1,1 @@
-sequencia 1:10
+sequencia 
